@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valid-email/static/css/main.ffbc4e1b.css",
+    "main.js": "/valid-email/static/js/main.d2fb3bf8.js",
+    "index.html": "/valid-email/index.html",
+    "main.ffbc4e1b.css.map": "/valid-email/static/css/main.ffbc4e1b.css.map",
+    "main.d2fb3bf8.js.map": "/valid-email/static/js/main.d2fb3bf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffbc4e1b.css",
+    "static/js/main.d2fb3bf8.js"
+  ]
+}
